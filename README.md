@@ -10,7 +10,7 @@
 
 🔭 I’m currently studying `IT` at `HEH`
 
-✨ I'm currently learning LaTex and Hardening Linux
+✨ I'm currently learning LaTex and Linux
 
 🌱 I’m currently focusing on improving my skills in cybersecurity and linux.
 
