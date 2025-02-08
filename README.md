@@ -35,7 +35,7 @@
 - 🔧 Other stuff
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,github,obsidian,vscode,terraform"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,github,obsidian,vscode,ansible"/>
   </a>
 </p>
 
