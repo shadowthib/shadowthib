@@ -25,7 +25,7 @@
   </a>
 </p>
 
-- ⌨️ Programming (know a bit)
+- ⌨️ Programming
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,bash,c,py,php,html,css,mysql,js" />
