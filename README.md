@@ -8,7 +8,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-🔭 I’m currently studying `IT` at `HEH`
+🔭 I’m currently working at `NSI` as `OSS system engineer`
 
 ✨ I'm currently learning LaTex and Linux
 
